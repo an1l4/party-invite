@@ -1,0 +1,9 @@
+mkdir partyinvites
+
+code .
+
+go mod init partyinvites
+
+touch main.go
+
+go run .
